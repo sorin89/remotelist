@@ -49,7 +49,7 @@ A list of remote job boards.
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|--|
 | ❇️ | [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote-developer-jobs) | Tech remote jobs. | | 70 |💻|
 | ❇️ | [Github](https://jobs.github.com/positions?description=&location=remote) | A tech remote jobs board.  | [JSON](https://jobs.github.com/api) |70|💻|
-| ❇️ | [Indeed.com](https://www.indeed.com/q-Remote-Programming-jobs.html) | Take's some fishing. Tech remote jobs | |200|💻|
+| ❇️ | [Indeed.com](https://www.indeed.com/q-Remote-Programming-jobs.html) | Takes some fishing. Tech remote jobs | |200|💻|
 | ❇️ | [Dribbble](https://dribbble.com/jobs?location=Anywhere) | A designers remote jobs board.| | 1000 |🎨|
 | ❇️ | [Hacker News](https://news.ycombinator.com/jobs) | Tech remote jobs. | |2000|💻|
 | ❇️ | [AngelList](https://angel.co/) |A popular remote jobs board. | | 2000 |🌟|
@@ -70,7 +70,7 @@ A list of remote job boards.
 | ❇️ | [Remote Work Hub](https://remoteworkhub.com/remote-jobs/) | A remote jobs board. | | 500,000 |🌟|
 | ❇️ | [No Desk](https://nodesk.co/remote-jobs/) | A remote jobs board. | | 800,000 |🌟|
 | ❇️ | [Europe Remotely](https://europeremotely.com/) | A remote jobs board. | | 1,000,000 |🌟|
-| ❇️ | [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html) |Go/Golang remote jobs. |  |1,000,000 |💻|
+| ❇️ | [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html) | Go/Golang remote jobs. | | 1,000,000 |💻|
 | ❇️ | [RemoteBase](https://remotebase.io/) | A remote jobs board. | | 1,000,000 |🌟|
 | ❇️ | [Telecommunity](http://remotejobs.telecommunity.net/) | A remote jobs board. | | 1,000,000  |🌟|
 | ❇️ | [We Work Meteor](https://www.weworkmeteor.com/) |Meteor remote jobs. |[JSON](https://www.weworkmeteor.com/api/jobs)|1,000,000 |💻|
@@ -103,7 +103,7 @@ Remote teaching companies.
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|
 | ❇️ | [italki](https://www.italki.com/home) | Teach a language. | 6000 |👩‍🏫|
 | ❇️ | [VIPKid](https://t.vipkid.com.cn/) | Teach English. | 10,000 |👩‍🏫|
-| ❇️ | [Preply](https://preply.com/) | Teach languages, programming, etc  | 30,000 |👩‍🏫| 
+| ❇️ | [Preply](https://preply.com/) | Teach languages, programming, etc  | 30,000 |👩‍🏫|
 | ❇️ | [DADAabc](https://www.dadaabc.com/teacher/job/) | Teach Chinese kids English. | 70,000 |👩‍🏫|  
 
 
@@ -131,12 +131,12 @@ Companies that sometimes advertise remote roles.
 | ❇️ | [Customer.io](https://customer.io) | An awesome email platform. | 60,000 |🌟|
 | ❇️ | [MeetEdgar](https://meetedgar.com/) | A social media scheduling platform. | 70,000 |🌟|
 | ❇️ | [Scraping Hub](https://scrapinghub.com/jobs) | A scraper tool. | 100,000 |🌟|
-| ❇️ | [X Team](https://x-team.com/) | Agency. | 200,000 |💻| 
+| ❇️ | [X Team](https://x-team.com/) | Agency. | 200,000 |💻|
 | ❇️ | [Judge.me](https://judge.me/) | A review platform. | 220,000 |🌟|
 | ❇️ | [Arkency](https://arkency.com/) | A consulting agency that builds business software, trains programmers, and produces books and webinars. | 270,000 |🌟|
 | ❇️ | [CleverTech](https://www.clevertech.biz/) | Tech Soultions. | 300,000 |🌟|
 | ❇️ | [Engineer Babu](https://www.engineerbabu.com/) | Agency. | 500,000 |💻|
-| ❇️ | [10UP](https://10up.com/careers/) | Agency | 500,000 |💻| 
+| ❇️ | [10UP](https://10up.com/careers/) | Agency | 500,000 |💻|
 | ❇️ | [wemake.services](wemake.services/meta/job-application) | Agency. | 6,000,000 |💻|
 | ❇️ | [Spies.ws](http://spies.ws/) | Agency. | No rating |💻|
 | ❇️ | [CrossOver](https://www.crossover.com/#index) | Agency. | No rating |💻|
@@ -154,7 +154,7 @@ Prefer to work for yourself? Here's a list of freelancing websites.
 | ❇️ | [Freelancer](https://www.freelancer.com/) | Freelance jobs in all sectors. | 2000 |🌟|
 | ❇️ | [PeoplePerHour](https://www.peopleperhour.com/) | Freelance gigs in all sectors. | 10,000 |🌟 |
 | ❇️ | [Guru](https://www.guru.com/) | Freelance jobs in all sectors. | 10,000 |🌟|
-| ❇️ | [Code Mentor](https://www.codementor.io/developers) | Freelance developer community. | 10,000 |💻| 
+| ❇️ | [Code Mentor](https://www.codementor.io/developers) | Freelance developer community. | 10,000 |💻|
 | ️️️❇️ | [Workana](https://www.workana.com/) | Freelance jobs in all sectors. Latin America only. | 15,000 |🌟|
 | ️️️❇️ | [Truelancer](https://www.truelancer.com/) | Freelance jobs in all sectors. | 40,000 |🌟|
 | ❇️ | [99Designs](https://99designs.co.uk/) | Freelance design community. | 80,000 |🎨|
