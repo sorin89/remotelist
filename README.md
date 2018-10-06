@@ -164,3 +164,4 @@ Prefer to work for yourself? Here's a list of freelancing websites.
 | ❇️ | [Speedlancer](https://speedlancer.com/) | Designers & Developers. | 600,000 |🌟|
 | ❇️ | [Moonlight](https://www.moonlightwork.com/) | Designers & Developers. | 800,000 |🌟|
 | ❇️ | [Soshace](https://soshace.com) | React/Angular/Vue/Python/Java developers. | 2,000,000 |💻|
+| ❇️ | [Bugcrowd](https://bugcrowd.com) | Cyber Security Pentesters. | 94,000 |💻|
