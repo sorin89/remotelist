@@ -104,7 +104,8 @@ Remote teaching companies.
 | ❇️ | [italki](https://www.italki.com/home) | Teach a language. | 6000 |👩‍🏫|
 | ❇️ | [VIPKid](https://t.vipkid.com.cn/) | Teach English. | 10,000 |👩‍🏫|
 | ❇️ | [Preply](https://preply.com/) | Teach languages, programming, etc  | 30,000 |👩‍🏫|
-| ❇️ | [DADAabc](https://www.dadaabc.com/teacher/job/) | Teach Chinese kids English. | 70,000 |👩‍🏫|  
+| ❇️ | [DADAabc](https://www.dadaabc.com/teacher/job/) | Teach Chinese kids English. | 70,000 |👩‍🏫| | ❇️ | [Code Institude](https://www.codeinstitute.net/) | Teach Coding. |  331,961 |💻👩‍🏫|
+ 
 
 
 &nbsp;
@@ -140,6 +141,9 @@ Companies that sometimes advertise remote roles.
 | ❇️ | [wemake.services](wemake.services/meta/job-application) | Agency. | 6,000,000 |💻|
 | ❇️ | [Spies.ws](http://spies.ws/) | Agency. | No rating |💻|
 | ❇️ | [CrossOver](https://www.crossover.com/#index) | Agency. | No rating |💻|
+| ❇️ | [Doist](https://doist.com/) | Help build the workplace of the future | 154,533 |💻|
+| ❇️ | [ConsenSys](https://new.consensys.net/careers/) | Decentralized blockchain company | 71,174 |💻|
+
 
 &nbsp;
 
