@@ -143,6 +143,9 @@ Companies that sometimes advertise remote roles.
 | ❇️ | [CrossOver](https://www.crossover.com/#index) | Agency. | No rating |💻|
 | ❇️ | [Doist](https://doist.com/) | Help build the workplace of the future | 154,533 |💻|
 | ❇️ | [ConsenSys](https://new.consensys.net/careers/) | Decentralized blockchain company | 71,174 |💻|
+| ❇️ | [CROmetrics](https://crometrics.com/jobs/) | Conversion Rate Optimization Company | 1,131,447 |💻|
+| ❇️ | [Hotjar](https://careers.hotjar.com/) | Customer surveys, heatmaps, etc | 7,298 |💻|
+| ❇️ | [StickerMule](https://www.stickermule.com/careers) | Sticker Printing Company | 18,265|💻|
 
 
 &nbsp;
