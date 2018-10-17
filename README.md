@@ -105,7 +105,8 @@ Companies looking for people to teach remotely.
 | ❇️ | [italki](https://www.italki.com/home) | Teach a language. | 6000 |👩‍🏫|
 | ❇️ | [VIPKid](https://t.vipkid.com.cn/) | Teach English. | 10,000 |👩‍🏫|
 | ❇️ | [Preply](https://preply.com/) | Teach languages, programming, etc  | 30,000 |👩‍🏫|
-| ❇️ | [DADAabc](https://www.dadaabc.com/teacher/job/) | Teach Chinese kids English. | 70,000 |👩‍🏫| | ❇️ | [Code Institude](https://www.codeinstitute.net/) | Teach Coding. |  331,961 |💻👩‍🏫|
+| ❇️ | [DADAabc](https://www.dadaabc.com/teacher/job/) | Teach Chinese kids English. | 70,000 |👩‍🏫|
+| ❇️ | [Code Institude](https://www.codeinstitute.net/) | Teach Coding. |  331,961 |💻👩‍🏫|
 
 
 
@@ -122,8 +123,10 @@ Companies that sometimes advertise remote roles.
 | ❇️ | [Invision App](https://www.invisionapp.com/company) | A design tool. | 2000 |🌟|
 | ❇️ | [Git Lab](https://about.gitlab.com/jobs/) | A git repository tool. | 3000 |🌟|
 | ❇️ | [Zapier](https://zapier.com/about/) | Manage workflows. | 3000 |🌟|
+| ❇️ | [Hotjar](https://careers.hotjar.com/) | Customer surveys, heatmaps, etc | 7,298 |💻|
 | ❇️ | [Toptal](https://www.toptal.com/) | Agency. | 9000 |🌟|
 | ❇️ | [HelpScout](https://www.helpscout.net/) | Help desk software company. | 11,000 |🌟|
+| ❇️ | [StickerMule](https://www.stickermule.com/careers) | Sticker Printing Company | 18,265|💻|
 | ❇️ | [Sketch](https://www.sketchapp.com/jobs/) | An awesome design tool. | 20,000 |🌟|
 | ❇️ | [Hubstaff](https://hubstaff.com/jobs) | A SaaS company. | 20,000 |🌟|
 | ❇️ | [Articulate](https://articulate.com/company/careers/) | Course Creation tool | 20,000 |🌟|
@@ -132,21 +135,22 @@ Companies that sometimes advertise remote roles.
 | ❇️ | [Automattic](https://automattic.com/work-with-us/) | The WordPress guys & gals | 50,000 |🌟|
 | ❇️ | [Customer.io](https://customer.io) | An awesome email platform. | 60,000 |🌟|
 | ❇️ | [MeetEdgar](https://meetedgar.com/) | A social media scheduling platform. | 70,000 |🌟|
+| ❇️ | [ConsenSys](https://new.consensys.net/careers/) | Decentralized blockchain company | 71,174 |💻|
 | ❇️ | [Scraping Hub](https://scrapinghub.com/jobs) | A scraper tool. | 100,000 |🌟|
+| ❇️ | [Doist](https://doist.com/) | Help build the workplace of the future | 154,533 |💻|
 | ❇️ | [X Team](https://x-team.com/) | Agency. | 200,000 |💻|
 | ❇️ | [Judge.me](https://judge.me/) | A review platform. | 220,000 |🌟|
 | ❇️ | [Arkency](https://arkency.com/) | A consulting agency that builds business software, trains programmers, and produces books and webinars. | 270,000 |🌟|
 | ❇️ | [CleverTech](https://www.clevertech.biz/) | Tech Solutions. | 300,000 |🌟|
 | ❇️ | [Engineer Babu](https://www.engineerbabu.com/) | Agency. | 500,000 |💻|
 | ❇️ | [10UP](https://10up.com/careers/) | Agency | 500,000 |💻|
+| ❇️ | [CROmetrics](https://crometrics.com/jobs/) | Conversion Rate Optimization Company | 1,131,447 |💻|
 | ❇️ | [wemake.services](wemake.services/meta/job-application) | Agency. | 6,000,000 |💻|
 | ❇️ | [Spies.ws](http://spies.ws/) | Agency. | No rating |💻|
 | ❇️ | [CrossOver](https://www.crossover.com/#index) | Agency. | No rating |💻|
-| ❇️ | [Doist](https://doist.com/) | Help build the workplace of the future | 154,533 |💻|
-| ❇️ | [ConsenSys](https://new.consensys.net/careers/) | Decentralized blockchain company | 71,174 |💻|
-| ❇️ | [CROmetrics](https://crometrics.com/jobs/) | Conversion Rate Optimization Company | 1,131,447 |💻|
-| ❇️ | [Hotjar](https://careers.hotjar.com/) | Customer surveys, heatmaps, etc | 7,298 |💻|
-| ❇️ | [StickerMule](https://www.stickermule.com/careers) | Sticker Printing Company | 18,265|💻|
+
+
+
 
 
 &nbsp;
@@ -166,10 +170,11 @@ Prefer to work for yourself? Here's a list of freelancing websites.
 | ️️️❇️ | [Workana](https://www.workana.com/) | Freelance jobs in all sectors. Latin America only. | 15,000 |🌟|
 | ️️️❇️ | [Truelancer](https://www.truelancer.com/) | Freelance jobs in all sectors. | 40,000 |🌟|
 | ❇️ | [99Designs](https://99designs.co.uk/) | Freelance design community. | 80,000 |🎨|
+| ❇️ | [Bugcrowd](https://bugcrowd.com) | Cyber Security Pentesters. | 94,000 |💻|
 | ❇️ | [Codeable](https://codeable.io/) | Freelance Wordpress developers. | 115,000 |💻|
 | ❇️ | [Cloud Peeps](https://www.cloudpeeps.com) | Freelance gigs in all sectors. | 240,000 |🌟|
 | ❇️ | [GunIO](https://www.gun.io/#hacker) | Freelance developers. | 400,000 |💻|
 | ❇️ | [Speedlancer](https://speedlancer.com/) | Designers & Developers. | 600,000 |🌟|
 | ❇️ | [Moonlight](https://www.moonlightwork.com/) | Designers & Developers. | 800,000 |🌟|
 | ❇️ | [Soshace](https://soshace.com) | React/Angular/Vue/Python/Java developers. | 2,000,000 |💻|
-| ❇️ | [Bugcrowd](https://bugcrowd.com) | Cyber Security Pentesters. | 94,000 |💻|
+
