@@ -1,5 +1,5 @@
-﻿# Remote List
-A curated list of companies or job boards advertising Remote Jobs.
+# Remote List
+A curated list of companies and job boards advertising Remote Jobs.
 
 | Categories | * |
 |--|--|
@@ -14,7 +14,7 @@ A curated list of companies or job boards advertising Remote Jobs.
 &nbsp;
 
 ---
-### Think there's someone missing or an incorrect detail? Make a [pull request](https://github.com/raynesio/remotelist/pulls)
+### Think there's someone missing or spot an incorrect detail? Make a [pull request](https://github.com/raynesio/remotelist/pulls)
 ---
 
 &nbsp;
@@ -87,7 +87,7 @@ A list of remote job boards.
 &nbsp;
 
 ### 🐞 Testing
-Companies that provide website testing.
+Companies looking for people to work as website testers.
 
 || Site |   Details | Alexa Rank | * |                                                                                                          
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|
@@ -98,7 +98,7 @@ Companies that provide website testing.
 
 
 ### 👩‍🏫 Teaching
-Remote teaching companies.
+Companies looking for people to teach remotely.
 
 || Site |   Details | Alexa Rank | * |                                                                                                          
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|
