@@ -138,6 +138,7 @@ Companies that sometimes advertise remote roles.
 | ❇️ | [ConsenSys](https://new.consensys.net/careers/) | Decentralized blockchain company | 71,174 |💻|
 | ❇️ | [Scraping Hub](https://scrapinghub.com/jobs) | A scraper tool. | 100,000 |🌟|
 | ❇️ | [Doist](https://doist.com/) | Help build the workplace of the future | 154,533 |💻|
+| ❇️ | [Redox](https://www.redoxengine.com/) | Healthcare API | 193,934 |🌟|
 | ❇️ | [X Team](https://x-team.com/) | Agency. | 200,000 |💻|
 | ❇️ | [Judge.me](https://judge.me/) | A review platform. | 220,000 |🌟|
 | ❇️ | [Arkency](https://arkency.com/) | A consulting agency that builds business software, trains programmers, and produces books and webinars. | 270,000 |🌟|
