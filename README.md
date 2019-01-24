@@ -143,6 +143,7 @@ Companies that sometimes advertise remote roles.
 | ❇️ | [Judge.me](https://judge.me/) | A review platform. | 220,000 |🌟|
 | ❇️ | [Arkency](https://arkency.com/) | A consulting agency that builds business software, trains programmers, and produces books and webinars. | 270,000 |🌟|
 | ❇️ | [CleverTech](https://www.clevertech.biz/) | Tech Solutions. | 300,000 |🌟|
+| ❇️ | [madewithlove](https://madewithlove.be) | Agency. | 402,973 |💻|
 | ❇️ | [Engineer Babu](https://www.engineerbabu.com/) | Agency. | 500,000 |💻|
 | ❇️ | [10UP](https://10up.com/careers/) | Agency | 500,000 |💻|
 | ❇️ | [CROmetrics](https://crometrics.com/jobs/) | Conversion Rate Optimization Company | 1,131,447 |💻|
