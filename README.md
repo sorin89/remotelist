@@ -1,7 +1,6 @@
 # Remote List
 A curated list of companies and job boards advertising Remote Jobs.
 
-[![Join the chat at https://gitter.im/sky-starter-kit/Lobby][gitter-image]][gitter-url] [![Contributors](https://img.shields.io/github/contributors/thedaviddias/Resources-Front-End-Beginner.svg)](https://github.com/thedaviddias/Resources-Front-End-Beginner/graphs/contributors)
 [![CC0](https://img.shields.io/badge/license-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 | Categories | * |
