@@ -1,6 +1,6 @@
 # Remote List
 [![CC0](https://img.shields.io/badge/license-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/raynesio/remotelist/graphs/commit-activity)
 
 A curated list of companies and job boards advertising Remote Jobs.
 
