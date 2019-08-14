@@ -1,7 +1,6 @@
 # Remote List
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
-[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 A curated list of companies and job boards advertising Remote Jobs.
 
