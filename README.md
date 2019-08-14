@@ -121,7 +121,7 @@ Companies looking for people to teach remotely.
 Companies that sometimes advertise remote roles.
 
 || Site |   Details | Alexa Rank | * |                                                                                                          
--------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|
+-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|
 | ❇️ | [DigitalOcean](https://www.digitalocean.com/careers/) | Build the cloud | 1300 |🌟|
 | ❇️ | [Buffer](http://journey.buffer.com/) | An awesome Twitter client. | 2000 |🌟|
 | ❇️ | [Invision App](https://www.invisionapp.com/company) | A design tool. | 2000 |🌟|
@@ -165,22 +165,22 @@ Companies that sometimes advertise remote roles.
 ### 🔨 Freelancing
 Prefer to work for yourself? Here's a list of freelancing websites.
 
-|| Site |   Details | * |                                                                                                          
+|| Site |   Details | Alexa Rank | * |                                                                                                          
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|
-| ❇️ | [Fiverr](https://www.fiverr.com/) | Freelance gigs in all sectors. |🌟|
-| ❇️ | [Upwork](https://www.upwork.com/) | Freelance jobs in all sectors. |🌟|
-| ❇️ | [Freelancer](https://www.freelancer.com/) | Freelance jobs in all sectors. |🌟|
-| ❇️ | [PeoplePerHour](https://www.peopleperhour.com/) | Freelance gigs in all sectors. |🌟 |
-| ❇️ | [Guru](https://www.guru.com/) | Freelance jobs in all sectors. |🌟|
-| ❇️ | [Code Mentor](https://www.codementor.io/developers) | Freelance developer community. |💻|
-| ️️️❇️ | [Workana](https://www.workana.com/) | Freelance jobs in all sectors. Latin America only. |🌟|
-| ️️️❇️ | [Truelancer](https://www.truelancer.com/) | Freelance jobs in all sectors. |🌟|
-| ❇️ | [99Designs](https://99designs.co.uk/) | Freelance design community.|🎨|
-| ❇️ | [Bugcrowd](https://bugcrowd.com) | Cyber Security Pentesters. |💻|
-| ❇️ | [Codeable](https://codeable.io/) | Freelance Wordpress developers. |💻|
-| ❇️ | [Cloud Peeps](https://www.cloudpeeps.com) | Freelance gigs in all sectors.  |🌟|
-| ❇️ | [GunIO](https://www.gun.io/#hacker) | Freelance developers.  |💻|
-| ❇️ | [Speedlancer](https://speedlancer.com/) | Designers & Developers. |🌟|
-| ❇️ | [Moonlight](https://www.moonlightwork.com/) | Designers & Developers. |🌟|
-| ❇️ | [Soshace](https://soshace.com) | React/Angular/Vue/Python/Java developers. |💻|
+| ❇️ | [Fiverr](https://www.fiverr.com/) | Freelance gigs in all sectors. | 400 |🌟|
+| ❇️ | [Upwork](https://www.upwork.com/) | Freelance jobs in all sectors. | 500 |🌟|
+| ❇️ | [Freelancer](https://www.freelancer.com/) | Freelance jobs in all sectors. | 2000 |🌟|
+| ❇️ | [PeoplePerHour](https://www.peopleperhour.com/) | Freelance gigs in all sectors. | 10,000 |🌟 |
+| ❇️ | [Guru](https://www.guru.com/) | Freelance jobs in all sectors. | 10,000 |🌟|
+| ❇️ | [Code Mentor](https://www.codementor.io/developers) | Freelance developer community. | 10,000 |💻|
+| ️️️❇️ | [Workana](https://www.workana.com/) | Freelance jobs in all sectors. Latin America only. | 15,000 |🌟|
+| ️️️❇️ | [Truelancer](https://www.truelancer.com/) | Freelance jobs in all sectors. | 40,000 |🌟|
+| ❇️ | [99Designs](https://99designs.co.uk/) | Freelance design community. | 80,000 |🎨|
+| ❇️ | [Bugcrowd](https://bugcrowd.com) | Cyber Security Pentesters. | 94,000 |💻|
+| ❇️ | [Codeable](https://codeable.io/) | Freelance Wordpress developers. | 115,000 |💻|
+| ❇️ | [Cloud Peeps](https://www.cloudpeeps.com) | Freelance gigs in all sectors. | 240,000 |🌟|
+| ❇️ | [GunIO](https://www.gun.io/#hacker) | Freelance developers. | 400,000 |💻|
+| ❇️ | [Speedlancer](https://speedlancer.com/) | Designers & Developers. | 600,000 |🌟|
+| ❇️ | [Moonlight](https://www.moonlightwork.com/) | Designers & Developers. | 800,000 |🌟|
+| ❇️ | [Soshace](https://soshace.com) | React/Angular/Vue/Python/Java developers. | 2,000,000 |💻|
 
