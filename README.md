@@ -165,7 +165,7 @@ Companies that sometimes advertise remote roles.
 ### 🔨 Freelancing
 Prefer to work for yourself? Here's a list of freelancing websites.
 
-|| Site |   Details | Alexa Rank | * |                                                                                                          
+|| Site |   Details | * |                                                                                                          
 -------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--|--|--|
 | ❇️ | [Fiverr](https://www.fiverr.com/) | Freelance gigs in all sectors. |🌟|
 | ❇️ | [Upwork](https://www.upwork.com/) | Freelance jobs in all sectors. |🌟|
