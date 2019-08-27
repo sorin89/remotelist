@@ -59,13 +59,14 @@ A list of remote job boards.
 | ❇️ | [AngelList](https://angel.co/) |A popular remote jobs board. | | 2000 |🌟|
 | ❇️ | [Product Hunt](https://www.producthunt.com/jobs) | A remote jobs board. (Has a remote filter) | | 3000 |🌟|
 | ❇️ | [Flexjobs](https://www.flexjobs.com) | A remote jobs board. | | 20,000 |🌟|
+| ❇️ | [WeWorkRemotely](https://weworkremotely.com/) | A popular remote jobs board. | | 20,000 |🌟|
 | ❇️ | [Remote.com](https://remote.com/jobs) | A remote jobs board. | | 30,000 |🌟|
-| ❇️ | [WeWorkRemotely](https://weworkremotely.com/) | A popular remote jobs board. | | 40,000 |🌟|
-| ❇️ | [Remote.co](https://remote.co/remote-jobs/) | A remote jobs board. | | 80,000 |🌟|
+| ❇️ | [Remote.co](https://remote.co/remote-jobs/) | A remote jobs board. | | 30,000 |🌟|
 | ❇️ | [Outsourcely](https://www.outsourcely.com/remote-workers) | A remote jobs board. | | 100,000 |🌟|
+| ❇️ | [Remotive](https://remotive.io/) | A remote jobs board. | | 100,000 |🌟|
 | ❇️ | [Authentic Jobs](https://authenticjobs.com/#remote=true) | A popular remote jobs board. | [JSON](https://authenticjobs.com/api/docs) | 200,000 |🌟|
 | ❇️ | [Jobspresso](https://jobspresso.co/) | A remote jobs board. | | 200,000 |🌟|
-| ❇️ | [Remotive](https://remotive.io/) | A remote jobs board. | | 200,000 |🌟|
+| ❇️ | [RemoteRole](https://remoterole.com/) | A remote jobs board. | | 200,000 |🌟|
 | ❇️ | [Working Nomads](https://www.workingnomads.co/jobs) | A remote jobs board. | [JSON](https://www.workingnomads.co/api/exposed_jobs/) | 200,000 |🌟|
 | ❇️ | [Landing.jobs](https://landing.jobs/jobs?remote=true) | A remote jobs board. | | 200,000 |🌟|
 | ❇️ | [PowerToFly](https://powertofly.com/) | A remote jobs board. | | 300,000 |🌟|
